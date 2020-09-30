@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace OSMRoad
+
 {
     public partial class OsmroadContext : DbContext
     {
